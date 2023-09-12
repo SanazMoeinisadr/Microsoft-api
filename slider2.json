@@ -1,0 +1,12 @@
+[
+       {
+              "type":"slideFirst",
+              "slideUrl":"imges/abi/bnfsh.avif"
+              
+       },
+       {
+              "type":"slideSecond",
+              "slideUrl":"imges/abi/bche.avif"
+       }
+      
+]

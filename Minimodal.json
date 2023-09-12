@@ -1,0 +1,13 @@
+[
+       {
+              "type":"modalHeader",
+              "modalUrl":"imges/logo.png",
+              "modalTitle":"Sign in",
+              "formLabel":"Enter your Email",
+              "passTitle":"Password",
+              "neveshte":"No account?",
+              "neveshteSpan":"Create one",
+              "closeBtn":"Close",
+              "signBtn":"Sign In"
+       }
+]

@@ -1,0 +1,93 @@
+[
+              
+       {
+              "col":[
+                     
+                     {"title":"What's new"},
+                     {"description":"Surface Pro 9"},
+                     {"description":"Surface Laptop 5"},
+                     {"description":"Surface Studio 2+"},
+                     {"description":"Surface Laptop Go 2"},
+                     {"description":"Surface Laptop Studio"},
+                     {"description":"Surface Go 3"},
+                     {"description":"Microsoft 365"},
+                     {"description":"Windows 11 apps"}
+
+              ]
+       },
+       {
+              "col":[
+                     
+                     {"title":"Microsoft Store"},
+                     {"description":"Account profile"},
+                     {"description":"Download Cneter"},
+                     {"description":"Microsoft Wtore support"},
+                     {"description":"Returns"},
+                     {"description":"Order tracking"},
+                     {"description":"Virtual workshops and training"},
+                     {"description":"Microsoft Store Promise"},
+                     {"description":"Flexible Payments"}
+
+              ]
+       },
+       {
+              "col":[
+                     
+                     {"title":"Education"},
+                     {"description":"Microsoft in education"},
+                     {"description":"Devices for education"},
+                     {"description":"Microsoft Teams for Education"},
+                     {"description":"Microsoft 365 Education"},
+                     {"description":"How to buy for your school"},
+                     {"description":"Educator training and development"},
+                     {"description":"Deals for students and parents"},
+                     {"description":"Azure for students"}
+
+              ]
+       },
+       {
+              "col":[
+                     
+                     {"title":"Business"},
+                     {"description":"Microsoft Cloud"},
+                     {"description":"Microsoft Securityر"},
+                     {"description":"Dynamic 365"},
+                     {"description":"Microsoft 365 for business"},
+                     {"description":"Microsoft Power Platform"},
+                     {"description":"Windows 365"},
+                     {"description":"Microsoft Industry"},
+                     {"description":"Small Business"}
+
+              ]
+       },
+       {
+              "col":[
+                     
+                     {"title":"Developer & IT"},
+                     {"description":"Azure"},
+                     {"description":"Developer Center"},
+                     {"description":"Documentation"},
+                     {"description":"Microsoft Learn"},
+                     {"description":"Microsoft Tech Community"},
+                     {"description":"Azure Marketplace"},
+                     {"description":"AppSource"},
+                     {"description":"Visual Studio"}
+
+              ]
+       },
+       {
+              "col":[
+                     
+                     {"title":"Company"},
+                     {"description":"Careers"},
+                     {"description":"About Microsoft"},
+                     {"description":"Companu news"},
+                     {"description":"Privacy at Microsoft"},
+                     {"description":"Investors"},
+                     {"description":"Diversity and indusion"},
+                     {"description":"Accessibility"},
+                     {"description":"Sustainability"}
+
+              ]
+       }
+]

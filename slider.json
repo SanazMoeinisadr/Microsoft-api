@@ -1,0 +1,12 @@
+[
+       {
+              "type":"slideOne",
+              "slideUrl":"imges/slider/1.avif"
+              
+       },
+       {
+              "type":"slide",
+              "slideUrl":"imges/slider/2.webp"
+       }
+      
+]

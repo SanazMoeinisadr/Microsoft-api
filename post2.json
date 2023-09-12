@@ -1,0 +1,26 @@
+[
+       {
+              "url":"imges/card2/13.webp",
+              "title":"Save up to $250 on Surface Laptop 5 for Business",
+              "description":"Lightning-fast performance, built-in security and sleek portability designed for your small business. Offer ends 5/31. ",
+              "shBtn":"Shop Now"
+       },
+       {
+              "url":"imges/card2/14.avif",
+              "title":"Microsoft 365 Copilot",
+              "description":"Discover a new way to work with next-gen AI embedded in the Microsoft 365 apps you use every day. ",
+              "shBtn":"Learn more about Microsoft 365 Copilot"
+       },
+       {
+              "url":"imges/card2/15.jpg",
+              "title":"Windows 11 for business",
+              "description":"Designed for hybrid work. Powerful for employees. Consistent for IT. Secure for all",
+              "shBtn":"Learn more"
+       },
+       {
+              "url":"imges/card2/16.webp",
+              "title":"Get Microsoft Teams for free ",
+              "description":"Online meetings, chat, and shared cloud storage—all in one place.",
+              "shBtn":"Sign up for free"
+       }
+]

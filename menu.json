@@ -1,0 +1,79 @@
+[
+       {
+              "bigTitle":"All Microsoft",
+              "siteMap":"VIEW SITEMAP >",
+              "dropdown":[
+                     {"title":"Software"},
+                     {"description":"Windows Apps"},
+                     {"description":"AI"},
+                     {"description":"Outlook"},
+                     {"description":"Outlook"},
+                     {"description":"Microsoft Teams"},
+                     {"description":"OneNote"},
+                     {"description":"Microsoft Edge"},
+                     {"description":"Skype"}
+              ]
+       },
+       {
+              "dropdown":[
+                     {"title":"PC & Devices"},
+                     {"description":"Computers"},
+                     {"description":"Shop Xbox"},
+                     {"description":"Accesories"},
+                     {"description":"Outlook"},
+                     {"description":"VR & mixed reality"},
+                     {"description":"Phones"}
+              ]
+       },
+       {
+              "dropdown":[
+                     {"title":"Entertainment"},
+                     {"description":"Xbox Game Pass Ultimate"},
+                     {"description":"PC Game Pass"},
+                     {"description":"Xbox games"},
+                     {"description":"PC games"},
+                     {"description":"VR & mixed reality"},
+                     {"description":"Windows digital games"},
+                     {"description":"Movies & TV"}
+              ]
+       },
+       {
+              "dropdown":[
+                     {"title":"Business"},
+                     {"description":"Microsoft Cloud"},
+                     {"description":"Microsoft Security"},
+                     {"description":"Dynamic 365"},
+                     {"description":"Microsoft 365 for business"},
+                     {"description":"Microsoft Power Platform"},
+                     {"description":"Windows 365"},
+                     {"description":"Microsoft Industry"},
+                     {"description":"Small Business"}
+              ]
+       },
+       {
+              "dropdown":[
+                     {"title":"Developer & IT"},
+                     {"description":"Azure"},
+                     {"description":"Developer Center"},
+                     {"description":"Microsoft Learn"},
+                     {"description":"Microsoft Tech Community"},
+                     {"description":"Azure Marketplace"},
+                     {"description":"AppSource"},
+                     {"description":"Microsoft Industry"},
+                     {"description":"Visual Studio"}
+              ]
+       },
+       {
+              "dropdown":[
+                     {"title":"Other"},
+                     {"description":"Microsoft Rewards"},
+                     {"description":"Free downloads & security"},
+                     {"description":"Education"},
+                     {"description":"Virtual workshops and training"},
+                     {"description":"Gift cards"},
+                     {"description":"Licensing"},
+                     {"description":"Microsoft Industry"},
+                     {"description":"Microsoft Experience Center"}
+              ]
+       }
+]
